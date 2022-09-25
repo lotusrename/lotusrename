@@ -75,14 +75,6 @@ users - admin only
 broadcast - admin only
 ```
 
-## ❣️Thanks to
-
-<a href="https://t.me/lntechnical">
-   <p> lntechnical TG</p>
-  </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> lntechnical YT </p>
-  </a>
 
 
 
